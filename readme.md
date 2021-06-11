@@ -4,7 +4,7 @@
 
 Web 2D Top-down Twin Stick Shooters Game using [Wolfie2D Game Engine](https://github.com/joe-weaver/GameEngine/tree/master) by Professor McKenna and Joe Weaver and TypeScript.
 
-Group Member: [Charlie Monnone](https://github.com/charliemonnone), [Tamzid Chowdhury]() and Paul Han (self).
+Group Member: [Charlie Monnone](https://github.com/charliemonnone), [Tamzid Chowdhury](https://github.com/tamzid-chowdhury) and Paul Han (self).
 
 Based on event-handling game pattern, implemented various game logic such as physics collisions detection followed by feedback, simple pathfinding, optimization, game design and etc.
 
